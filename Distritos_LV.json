@@ -28747,8 +28747,8 @@
           "properties": {
             "CODDIS": "09",
             "CODDISTRIT": "09",
-            "NOMDIS": "Moncloa - ARAVACA",
-            "NOMBRE": "Moncloa - ARAVACA",
+            "NOMDIS": "MONCLOA - ARAVACA",
+            "NOMBRE": "MONCLOA - ARAVACA",
             "TYPE_1": "NombreDistrito",
             "ENGTYPE_1": "NombreDistrito"
           }
