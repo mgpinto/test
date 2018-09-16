@@ -49155,11 +49155,11 @@
             "OBJECTID": 2,
             "geodb_oid": 2,
             "CODDIS": "01",
-            "NOMDIS": "Centro",
+            "NOMDIS": "CENTRO",
             "CODBAR": "012",
             "CODDISTRIT": "01",
             "CODBARRIO": "1-2",
-            "NOMBRE": "Embajadores",
+            "NOMBRE": "EMBAJADORES",
             "ORIG_FID": 1
           }
         },
@@ -49177,11 +49177,11 @@
             "OBJECTID": 3,
             "geodb_oid": 3,
             "CODDIS": "01",
-            "NOMDIS": "Centro",
+            "NOMDIS": "CENTRO",
             "CODBAR": "013",
             "CODDISTRIT": "01",
             "CODBARRIO": "1-3",
-            "NOMBRE": "Cortes",
+            "NOMBRE": "CORTES",
             "ORIG_FID": 2
           }
         },
@@ -49200,11 +49200,11 @@
             "OBJECTID": 6,
             "geodb_oid": 6,
             "CODDIS": "01",
-            "NOMDIS": "Centro",
+            "NOMDIS": "CENTRO",
             "CODBAR": "016",
             "CODDISTRIT": "01",
             "CODBARRIO": "1-6",
-            "NOMBRE": "Sol",
+            "NOMBRE": "SOL",
             "ORIG_FID": 5
           }
         },
@@ -49225,11 +49225,11 @@
             "OBJECTID": 1,
             "geodb_oid": 1,
             "CODDIS": "01",
-            "NOMDIS": "Centro",
+            "NOMDIS": "CENTRO",
             "CODBAR": "011",
             "CODDISTRIT": "01",
             "CODBARRIO": "1-1",
-            "NOMBRE": "Palacio",
+            "NOMBRE": "PALACIO",
             "ORIG_FID": 0
           }
         },
@@ -49249,11 +49249,11 @@
             "OBJECTID": 4,
             "geodb_oid": 4,
             "CODDIS": "01",
-            "NOMDIS": "Centro",
+            "NOMDIS": "CENTRO",
             "CODBAR": "014",
             "CODDISTRIT": "01",
             "CODBARRIO": "1-4",
-            "NOMBRE": "Justicia",
+            "NOMBRE": "JUSTICIA",
             "ORIG_FID": 3
           }
         },
@@ -49274,11 +49274,11 @@
             "OBJECTID": 5,
             "geodb_oid": 5,
             "CODDIS": "01",
-            "NOMDIS": "Centro",
+            "NOMDIS": "CENTRO",
             "CODBAR": "015",
             "CODDISTRIT": "01",
             "CODBARRIO": "1-5",
-            "NOMBRE": "Universidad",
+            "NOMBRE": "UNIVERSIDAD",
             "ORIG_FID": 4
           }
         },
@@ -49297,11 +49297,11 @@
             "OBJECTID": 41,
             "geodb_oid": 41,
             "CODDIS": "07",
-            "NOMDIS": "Chamberí",
+            "NOMDIS": "CHAMBERÍ",
             "CODBAR": "074",
             "CODDISTRIT": "07",
             "CODBARRIO": "7-4",
-            "NOMBRE": "Almagro",
+            "NOMBRE": "ALMAGRO",
             "ORIG_FID": 40
           }
         },
@@ -49320,11 +49320,11 @@
             "OBJECTID": 40,
             "geodb_oid": 40,
             "CODDIS": "07",
-            "NOMDIS": "Chamberí",
+            "NOMDIS": "CHAMBERÍ",
             "CODBAR": "073",
             "CODDISTRIT": "07",
             "CODBARRIO": "7-3",
-            "NOMBRE": "Trafalgar",
+            "NOMBRE": "TRAFALGAR",
             "ORIG_FID": 39
           }
         },
@@ -49342,11 +49342,11 @@
             "OBJECTID": 39,
             "geodb_oid": 39,
             "CODDIS": "07",
-            "NOMDIS": "Chamberí",
+            "NOMDIS": "CHAMBERÍ",
             "CODBAR": "072",
             "CODDISTRIT": "07",
             "CODBARRIO": "7-2",
-            "NOMBRE": "Arapiles",
+            "NOMBRE": "ARAPILES",
             "ORIG_FID": 38
           }
         },
@@ -49365,11 +49365,11 @@
             "OBJECTID": 38,
             "geodb_oid": 38,
             "CODDIS": "07",
-            "NOMDIS": "Chamberí",
+            "NOMDIS": "CHAMBERÍ",
             "CODBAR": "071",
             "CODDISTRIT": "07",
             "CODBARRIO": "7-1",
-            "NOMBRE": "Gaztambide",
+            "NOMBRE": "GAZTAMBIDE",
             "ORIG_FID": 37
           }
         },
@@ -49388,11 +49388,11 @@
             "OBJECTID": 42,
             "geodb_oid": 42,
             "CODDIS": "07",
-            "NOMDIS": "Chamberí",
+            "NOMDIS": "CHAMBERÍ",
             "CODBAR": "075",
             "CODDISTRIT": "07",
             "CODBARRIO": "7-5",
-            "NOMBRE": "Rios Rosas",
+            "NOMBRE": "RIOS ROSAS",
             "ORIG_FID": 41
           }
         },
@@ -49411,11 +49411,11 @@
             "OBJECTID": 43,
             "geodb_oid": 43,
             "CODDIS": "07",
-            "NOMDIS": "Chamberí",
+            "NOMDIS": "CHAMBERÍ",
             "CODBAR": "076",
             "CODDISTRIT": "07",
             "CODBARRIO": "7-6",
-            "NOMBRE": "Vallehermoso",
+            "NOMBRE": "VALLEHERMOSO",
             "ORIG_FID": 42
           }
         },
@@ -49435,11 +49435,11 @@
             "OBJECTID": 33,
             "geodb_oid": 33,
             "CODDIS": "06",
-            "NOMDIS": "Tetuán",
+            "NOMDIS": "TETUÁN",
             "CODBAR": "062",
             "CODDISTRIT": "06",
             "CODBARRIO": "6-2",
-            "NOMBRE": "Cuatro Caminos",
+            "NOMBRE": "CUATRO CAMINOS",
             "ORIG_FID": 32
           }
         },
@@ -49457,11 +49457,11 @@
             "OBJECTID": 32,
             "geodb_oid": 32,
             "CODDIS": "06",
-            "NOMDIS": "Tetuán",
+            "NOMDIS": "TETUÁN",
             "CODBAR": "061",
             "CODDISTRIT": "06",
             "CODBARRIO": "6-1",
-            "NOMBRE": "Bellas Vistas",
+            "NOMBRE": "BELLAS VISTAS",
             "ORIG_FID": 31
           }
         },
@@ -49480,11 +49480,11 @@
             "OBJECTID": 37,
             "geodb_oid": 37,
             "CODDIS": "06",
-            "NOMDIS": "Tetuán",
+            "NOMDIS": "TETUÁN",
             "CODBAR": "066",
             "CODDISTRIT": "06",
             "CODBARRIO": "6-6",
-            "NOMBRE": "Berruguete",
+            "NOMBRE": "BERRUGUETE",
             "ORIG_FID": 36
           }
         },
@@ -49504,11 +49504,11 @@
             "OBJECTID": 34,
             "geodb_oid": 34,
             "CODDIS": "06",
-            "NOMDIS": "Tetuán",
+            "NOMDIS": "TETUÁN",
             "CODBAR": "063",
             "CODDISTRIT": "06",
             "CODBARRIO": "6-3",
-            "NOMBRE": "Castillejos",
+            "NOMBRE": "CASTILLEJOS",
             "ORIG_FID": 33
           }
         },
@@ -49527,11 +49527,11 @@
             "OBJECTID": 36,
             "geodb_oid": 36,
             "CODDIS": "06",
-            "NOMDIS": "Tetuán",
+            "NOMDIS": "TETUÁN",
             "CODBAR": "065",
             "CODDISTRIT": "06",
             "CODBARRIO": "6-5",
-            "NOMBRE": "Valdeacederas",
+            "NOMBRE": "VALDEACEDERAS",
             "ORIG_FID": 35
           }
         },
@@ -49549,11 +49549,11 @@
             "OBJECTID": 35,
             "geodb_oid": 35,
             "CODDIS": "06",
-            "NOMDIS": "Tetuán",
+            "NOMDIS": "TETUÁN",
             "CODBAR": "064",
             "CODDISTRIT": "06",
             "CODBARRIO": "6-4",
-            "NOMBRE": "Almenara",
+            "NOMBRE": "ALMENARA",
             "ORIG_FID": 34
           }
         },
@@ -49572,11 +49572,11 @@
             "OBJECTID": 53,
             "geodb_oid": 53,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "092",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-2",
-            "NOMBRE": "Argüelles",
+            "NOMBRE": "ARGÜELLES",
             "ORIG_FID": 52
           }
         },
@@ -49599,11 +49599,11 @@
             "OBJECTID": 52,
             "geodb_oid": 52,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "091",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-1",
-            "NOMBRE": "Casa de Campo",
+            "NOMBRE": "CASA DE CAMPO",
             "ORIG_FID": 51
           }
         },
@@ -49622,11 +49622,11 @@
             "OBJECTID": 58,
             "geodb_oid": 58,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "097",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-7",
-            "NOMBRE": "Aravaca",
+            "NOMBRE": "ARAVACA",
             "ORIG_FID": 57
           }
         },
@@ -49645,11 +49645,11 @@
             "OBJECTID": 55,
             "geodb_oid": 55,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "094",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-4",
-            "NOMBRE": "Valdezarza",
+            "NOMBRE": "VALDEZARZA",
             "ORIG_FID": 54
           }
         },
@@ -49667,11 +49667,11 @@
             "OBJECTID": 56,
             "geodb_oid": 56,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "095",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-5",
-            "NOMBRE": "Valdemarín",
+            "NOMBRE": "VALDEMARÍN",
             "ORIG_FID": 55
           }
         },
@@ -49696,11 +49696,11 @@
             "OBJECTID": 54,
             "geodb_oid": 54,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "093",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-3",
-            "NOMBRE": "Ciudad Universitaria",
+            "NOMBRE": "CIUDAD UNIVERSITARIA",
             "ORIG_FID": 53
           }
         },
@@ -49718,11 +49718,11 @@
             "OBJECTID": 57,
             "geodb_oid": 57,
             "CODDIS": "09",
-            "NOMDIS": "Moncloa - Aravaca",
+            "NOMDIS": "MONCLOA - ARAVACA",
             "CODBAR": "096",
             "CODDISTRIT": "09",
             "CODBARRIO": "9-6",
-            "NOMBRE": "El Plantío",
+            "NOMBRE": "EL PLANTÍO",
             "ORIG_FID": 56
           }
         }
