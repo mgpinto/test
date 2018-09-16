@@ -28687,8 +28687,10 @@
           "properties": {
             "CODDIS": "01",
             "CODDISTRIT": "01",
-            "NOMDIS": "Centro",
-            "NOMBRE": "Centro"
+            "NOMDIS": "CENTRO",
+            "NOMBRE": "CENTRO",
+            "TYPE_1": "NombreDistrito",
+            "ENGTYPE_1": "NombreDistrito"
           }
         },
         {
@@ -28705,8 +28707,10 @@
           "properties": {
             "CODDIS": "07",
             "CODDISTRIT": "07",
-            "NOMDIS": "Chamberí",
-            "NOMBRE": "Chamberí"
+            "NOMDIS": "CHAMBERÍ",
+            "NOMBRE": "CHAMBERÍ",
+            "TYPE_1": "NombreDistrito",
+            "ENGTYPE_1": "NombreDistrito"
           }
         },
         {
@@ -28722,8 +28726,10 @@
           "properties": {
             "CODDIS": "06",
             "CODDISTRIT": "06",
-            "NOMDIS": "Tetuán",
-            "NOMBRE": "Tetuán"
+            "NOMDIS": "TETUÁN",
+            "NOMBRE": "TETUÁN",
+            "TYPE_1": "NombreDistrito",
+            "ENGTYPE_1": "NombreDistrito"
           }
         },
         {
@@ -28741,8 +28747,10 @@
           "properties": {
             "CODDIS": "09",
             "CODDISTRIT": "09",
-            "NOMDIS": "Moncloa - Aravaca",
-            "NOMBRE": "Moncloa - Aravaca"
+            "NOMDIS": "Moncloa - ARAVACA",
+            "NOMBRE": "Moncloa - ARAVACA",
+            "TYPE_1": "NombreDistrito",
+            "ENGTYPE_1": "NombreDistrito"
           }
         }
       ]
