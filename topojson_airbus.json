@@ -1414,7 +1414,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D5"
+            "Building": "D05"
           }
         },
         {
@@ -1425,7 +1425,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A1"
+            "Building": "A01"
           }
         },
         {
@@ -1436,7 +1436,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A5"
+            "Building": "A05"
           }
         },
         {
@@ -1447,7 +1447,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D4"
+            "Building": "D04"
           }
         },
         {
@@ -1458,7 +1458,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D2"
+            "Building": "D02"
           }
         },
         {
@@ -1469,7 +1469,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D3"
+            "Building": "D03"
           }
         },
         {
@@ -1480,7 +1480,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A7"
+            "Building": "A07"
           }
         },
         {
@@ -1502,7 +1502,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A6"
+            "Building": "A06"
           }
         },
         {
@@ -1524,7 +1524,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A2"
+            "Building": "A02"
           }
         },
         {
@@ -1546,7 +1546,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D1"
+            "Building": "D01"
           }
         },
         {
@@ -1590,7 +1590,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A3"
+            "Building": "A03"
           }
         },
         {
@@ -1601,7 +1601,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D6"
+            "Building": "D06"
           }
         },
         {
@@ -1612,7 +1612,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "C7"
+            "Building": "C07"
           }
         },
         {
@@ -1623,7 +1623,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "C5"
+            "Building": "C05"
           }
         },
         {
@@ -1634,7 +1634,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D7"
+            "Building": "D07"
           }
         },
         {
@@ -1656,7 +1656,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D8"
+            "Building": "D08"
           }
         },
         {
@@ -1667,7 +1667,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "C1"
+            "Building": "C01"
           }
         },
         {
@@ -1678,7 +1678,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "C2"
+            "Building": "C02"
           }
         },
         {
@@ -1689,7 +1689,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "D9"
+            "Building": "D09"
           }
         },
         {
@@ -1700,7 +1700,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "C3"
+            "Building": "C03"
           }
         },
         {
@@ -1711,7 +1711,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T1"
+            "Building": "T01"
           }
         },
         {
@@ -1722,7 +1722,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T2"
+            "Building": "T02"
           }
         },
         {
@@ -1733,7 +1733,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T3"
+            "Building": "T03"
           }
         },
         {
@@ -1744,7 +1744,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T4"
+            "Building": "T04"
           }
         },
         {
@@ -1766,7 +1766,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T5"
+            "Building": "T05"
           }
         },
         {
@@ -1788,7 +1788,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T7"
+            "Building": "T07"
           }
         },
         {
@@ -1799,7 +1799,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T8"
+            "Building": "T08"
           }
         },
         {
@@ -1810,7 +1810,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T9"
+            "Building": "T09"
           }
         },
         {
@@ -1843,7 +1843,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "T6"
+            "Building": "T06"
           }
         },
         {
@@ -1876,7 +1876,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A4"
+            "Building": "A04"
           }
         },
         {
@@ -1931,7 +1931,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "S1"
+            "Building": "S01"
           }
         },
         {
@@ -1953,7 +1953,7 @@
           ],
           "type": "Polygon",
           "properties": {
-            "Building": "A8"
+            "Building": "A08"
           }
         },
         {
